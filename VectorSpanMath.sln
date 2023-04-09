@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VectorSpanMath", "VectorSpanMath\VectorSpanMath.csproj", "{207657E5-F92C-418B-B0F8-E09CFA3223CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Benchmarks", "Benchmarks\Benchmarks.csproj", "{8A0E9C07-320F-4D09-80DE-3936D449D5DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{2466BE68-CD80-4E57-B872-914F5BA421AA}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "NaiveImpl", "NaiveImpl\NaiveImpl.shproj", "{EFA797DB-BC1E-4E57-B722-21869ABED3CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{207657E5-F92C-418B-B0F8-E09CFA3223CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{207657E5-F92C-418B-B0F8-E09CFA3223CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{207657E5-F92C-418B-B0F8-E09CFA3223CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{207657E5-F92C-418B-B0F8-E09CFA3223CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A0E9C07-320F-4D09-80DE-3936D449D5DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A0E9C07-320F-4D09-80DE-3936D449D5DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A0E9C07-320F-4D09-80DE-3936D449D5DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A0E9C07-320F-4D09-80DE-3936D449D5DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2466BE68-CD80-4E57-B872-914F5BA421AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2466BE68-CD80-4E57-B872-914F5BA421AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2466BE68-CD80-4E57-B872-914F5BA421AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2466BE68-CD80-4E57-B872-914F5BA421AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
